@@ -7,7 +7,7 @@ settings:
 dependencies:
   '@xmldom/xmldom':
     specifier: ^0.9.0
-    version: 0.9.7
+    version: 0.9.8
   css:
     specifier: ^3.0.0
     version: 3.0.0
@@ -190,8 +190,8 @@ packages:
     dev: true
     optional: true
 
-  /@xmldom/xmldom@0.9.7:
-    resolution: {integrity: sha512-syvR8iIJjpTZ/stv7l89UAViwGFh6lbheeOaqSxkYx9YNmIVvPTRH+CT/fpykFtUx5N+8eSMDRvggF9J8GEPzQ==}
+  /@xmldom/xmldom@0.9.8:
+    resolution: {integrity: sha512-p96FSY54r+WJ50FIOsCOjyj/wavs8921hG5+kVMmZgKcvIKxMXHTrjNJvRgWa/zuX3B6t2lijLNFaOyuxUH+2A==}
     engines: {node: '>=14.6'}
     dev: false
 
